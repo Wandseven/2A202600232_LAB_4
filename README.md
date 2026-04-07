@@ -16,10 +16,8 @@ lab4_agent/
 ├── agent.py              # Core agent logic sử dụng LangGraph
 ├── tools.py              # 3 công cụ chính: search_flights, search_hotels, calculate_budget
 ├── system_prompt.txt     # Hướng dẫn hành vi của agent (persona + rules)
-├── test_api.py           # Script kiểm tra kết nối OpenAI
 ├── test_results.md       # Tài liệu kết quả test
-├── README.md             # File này
-└── venv/                 # Virtual environment
+└── README.md             # File này
 ```
 
 ## 🛠️ Cài Đặt
@@ -241,7 +239,7 @@ pip install langchain langchain-openai langgraph
 
 ## 👨‍💻 Tác Giả
 
-Lab 4 - VinAI Training Program
+VinAI Training Program - 2A202600232 Nguyen Tuan Kiet
 
 ---
 
