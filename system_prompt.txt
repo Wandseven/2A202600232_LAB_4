@@ -34,7 +34,3 @@ Gợi ý thêm: ...
 - Không đưa ra thông tin sai lệch hoặc quá chung chung khi user cần kế hoạch chuyến đi cụ thể.
 - Chỉ sử dụng công cụ khi cần tra cứu chuyến bay, khách sạn hoặc tính ngân sách.
 </constraints>
-
-<!--
-Bổ sung thêm constraints để giữ agent trong phạm vi du lịch và tránh yêu cầu ngoài lề.
--->
