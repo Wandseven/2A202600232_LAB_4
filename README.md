@@ -175,13 +175,6 @@ Mô tả các yếu tố:
 
 ## 📝 Ví Dụ Sử Dụng
 
-### Script Test
-
-```bash
-python test_api.py
-```
-
-Kiểm tra kết nối OpenAI API và các công cụ cơ bản.
 
 ### Chạy Agent Interactively
 
